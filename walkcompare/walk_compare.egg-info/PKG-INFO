@@ -1,0 +1,10 @@
+Metadata-Version: 1.0
+Name: walk-compare
+Version: 0.1
+Summary: A way of Comparing large collections in libraries.
+Home-page: https://github.com/greebie/Compare
+Author: Ryan Deschamps
+Author-email: ryan.deschamps@gmail.com
+License: Apache 2.0
+Description: UNKNOWN
+Platform: UNKNOWN

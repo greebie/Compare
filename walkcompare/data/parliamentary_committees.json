@@ -1,0 +1,65 @@
+{
+    "INAN":{
+        "name": "Indigenous and Northern Affairs",
+        "membership":["D Yurdiga", "R Saganash", "G Anandasangaree", "M Bossio", "R Massé", "C Macleod", "MV McLeod", "M Mihychuk", "D Rusnuak", "A Viersen"]
+    },
+    "HUMA":{
+        "name":"Human Resources, Skills and Social Development and the Status of Persons with Disabilities",
+        "membership": ["B May", "B Zimmer", "N Ashton", "A Dhillon", "W Long", "P Poilievre", "Y Robillard", "D Ruimy", "R Sangha", "M Warawa"]
+    },
+    "FINA":{
+        "name": "Finance",
+        "membership":["W Easter", "R Liepert", "G Caron", "D Albas", "G Deltell", "G Fergus", "R Grewal", "J O'Connell", "RF Ouellette", "F Sorbara"]
+    },
+    "FAAE":{
+        "name": "Foreign Affairs and International Development",
+        "membership": ["RD Nault", "D Allison", "H Laverdière", "P Fragiskatos", "P Kent", "T Kmiec", "M Levitt", "J McKay", "R Saini", "J Sidhu"]
+    },
+    "ETHI":{
+        "name": "Access to Information, Privacy and Ethics",
+        "membership":["B Calkins", "D Blaikie", "B Bratina", "E Dubourg", "N Erskine-Smith", "M Jeneroux", "P Kelly", "W Long", "R Massé", "R Saini"]
+    },
+    "ENVI":{
+        "name":"Environment and Sustainable Development",
+        "membership":["D Schulte", "J Eglinski", "L Duncan", "J Aldag", "W Amos", "M Bossio", "D Fisher", "M Gerretsen", "J Godin", "M Shields"]
+    },
+    "CHPC":{
+        "name": "Canadian Heritage",
+        "membership":["H Fry", "L Maguire", "P Nantel", "P Breton", "J Dabrusin", "S O'Regan", "D Samson", "PV Loan", "D Vandal", "K Waugh"]
+    },
+    "CIMM":{
+        "name":"Citizenship and Immigration",
+        "membership":["B Wrzesnewskyj", "D Tilson", "J Kwan", "J Dzerowicz", "A Ehsassi", "M Rempel", "R Sarai", "B Saroya", "M Tabbara", "S Zahid"]
+    },
+    "ACVA":{
+        "name": "Veterans Affairs",
+        "membership": ["NR Ellis","R Kitchen","I Mathyssen","B Bratina","A Clarke","D Eyolfson","C Fraser","A Lockhart","S Romando","C Wagantall"]
+    },
+    "HESA": {"name":"Health","membership":["B Casey","L Webber","D Davies","R Ayoub","C Carrie","D Eyolfson","R Harder","DS Kang","J Oliver","S Sidhu"]
+    },
+    "TRAN": {"name":"Transport, Infrastructure and Communities",
+    "membership":["JA Sgro","L Berthold","L Duncan","V Badawey","K Block","S Fraser","K Hardie","A Iacono","G Sikand","DL Watts"]
+    },
+    "FOPO":{"name":"Fisheries and Oceans",
+        "membership":["S Simms","R Sopuck","F Donnelly","M Arnold","T Doherty","P Finnigan","K Hardie","B Jordan","K McDonald","RJ Morrissey"]
+    },
+    "RNNR":{"name":"Natural Resources",
+        "membership":["J Maloney","J Barlow","R Cannings","C Bergen","TJ Harvey","D Lemieux","MV Mcleod","M Serr\u00e9","S Stubbs","G Tan"]
+    },
+    "FEWO":{"name":"Status of Women",
+        "membership":["M Gladu","P Damoff","S Malcomson","S Fraser","R Harder","K Ludwig","E Nassif","R Sahota","A Vandenbeld","K Vecchio"]
+    },
+    "ESPE":{"name":"Pay Equity",
+        "membership":["A Vandenbeld","S Stubbs","S Benson","D Albas","M DeCourcey","J Dzerowicz","M Gladu","T Sheehan","S Sidhu"]
+    },
+    "BILI":{"name":"Library of Parliament",
+        "membership":["G Brown","K Diotte","T Doherty","A Iacono","M Lake","M Levitt","E Nassif","AMT Quach","D Rusnak","M Serr\u00e9","G Sikand","S Simms"]
+    },
+    "AGRI":{"name":"Agriculture and Agri-food",
+        "membership":["P Finnigan","B Shipley","RE Brosseau","D Anderson","P Breton","F Drouin","J Gourde","A Lockhart","L Longfield","J Peschisolido"]
+    },
+    "JUST":{"name":"Justice and Human Rights",
+        "membership":["A Housefather","T Falk","M Rankin","C Bittle","M Cooper","C Fraser","A Hussen","I Khalid","R McKinnon","R Nicholson"]
+    }
+    
+}

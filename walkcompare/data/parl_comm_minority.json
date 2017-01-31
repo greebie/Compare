@@ -1,0 +1,67 @@
+{
+    "INAN":{
+        "name": "Indigenous and Northern Affairs",
+        "membership":["C Warkentin", "J Crowder", "C Bennett", "S Ambler", "D Bevington", "R Boughen", "R Clarke", "J Genest-Jourdain", "J Hillyer", "C Hughes", "G Rickford", "K Seeback"]
+    },
+    "HUMA":{
+        "name":"Human Resources, Skills and Social Development and the Status of Persons with Disabilities",
+        "membership": ["E Komarnicki", "C Charlton", "R Cuzner", "M Boutin-Sweet", "B Butt", "R Cleary", "J Daniel", "F Lapointe", "K Leitch", "C Mayes", "P McColeman", "D Shory"]
+    },
+    "FINA":{
+        "name": "Finance",
+        "membership":["J Rajotte", "P Nash", "S Brison", "M Adler", "G Caron", "R Côté", "S Glover", "R Hoback", "B Jean", "C Macleod", "M Rankin", "DV Kesteren"]
+    },
+    "FAAE":{
+        "name": "Foreign Affairs and International Development",
+        "membership": ["D Allison", "P Dewar", "L Brown", "E Péclet", "R Saganash", "GR Schellenberger", "DV Kesteren", "J Williamson", "B Dechert", "N Grewal", "H Laverdière"]
+    },
+    "ETHI":{
+        "name": "Access to Information, Privacy and Ethics",
+        "membership":["PL Dusseault", "P Davidson", "S Andrews", "C Angus", "C Borg", "A Boulerice", "B Butt", "B Calkins", "J Carmichael", "DD Mastro", "E Dreeshen", "C Mayes"]
+    },
+    "ENVI":{
+        "name":"Environment and Sustainable Development",
+        "membership":["H Albrecht", "MA Leslie", "K Duncan", "F Choquette", "J Lunney", "F Pilon", "AM Quach", "M Rempel", "R Sopuck", "Storseth", "L Toet", "S Woodworth"]
+    },
+    "CHPC":{
+        "name": "Canadian Heritage",
+        "membership":["P Nantel", "S Simms", "R Boughen", "M Boutin-Sweet", "G Brown", "P Calandra", "A Cash", "M Dubé", "J Hillyer", "R Moore", "B Richards", "T Young"]
+    },
+    "CIMM":{
+        "name":"Citizenship and Immigration",
+        "membership":["D Tilson", "JJ Sims", "K Lamoureux", "R Dykstra", "M Freeman", "S Groguhé", "R James", "C Leung", "C Menegakis", "T Opitz", "R Sitsabaiesan", "J Weston"]
+    },
+    "ACVA":{
+        "name": "Veterans Affairs",
+        "membership": ["G Kerr", "P Stoffer", "S Casey", "E Adams", "S Chicoine", "B Hayes", "W Lizon", "B Lobb", "I Mathyssen", "E O'Toole", "M Perreault", "B Zimmer"]
+    },
+    "HESA": {"name":"Health",
+        "membership":["J Smith", "L Davies", "H Fry", "K Block", "P Brown", "C Carrie", "M Kellway", "W Lizon", "B Lobb", "D Morin", "D Sellah", "D Wilks"]
+    },
+    "TRAN": {"name":"Transport, Infrastructure and Communities",
+        "membership":["L Miller", "O Chow", "D McGuinty", "M Adler", "R Aubin", "J Daniel", "E Holder", "I Morin", "P Poilievre", "M Sullivan", "L Toet", "J Watson"]
+    },
+    "FOPO":{"name":"Fisheries and Oceans",
+        "membership":["R Weston", "R Chisholm", "L MacAulay", "M Allen", "P Davidson", "F Donnelly", "R Kamp", "R Sopuck", "P Toone", "J Tremblay", "J Weston", "S Woodworth"]
+    },
+    "RNNR":{"name":"Natural Resources",
+        "membership":["L Benoit", "P Julian", "M Garneau", "M Allen", "D Anderson", "B Calkins", "J Crockatt", "C Gravelle", "R Leef", "L Liu", "J Nicholls", "B Trost"]
+    },
+    "FEWO":{"name":"Status of Women",
+        "membership":["L Blanchette-Lamothe", "TO Gordon", "JA Sgro", "S Ambler", "N Ashton", "J Bateman", "J Crockatt", "AM Day", "S Hassainia", "R James", "S Truppe", "W Young"]
+    },
+    "IWFA":{"name":"Violence against Indigenous Women",
+        "membership":["S Ambler", "L Davies", "C Bennett", "N Ashton", "K Block", "J Crowder", "R Goguen", "C Mcleod", "M Rempel", "G Rickford", "R Saganash", "S Truppe"]
+    },
+    "BILI":{"name":"Library of Parliament",
+        "membership":["R Galipeau", "C Hughes", "C Bennett", "R Bruinooge", "R Clarke", "RM Harris", "J Hillyer", "C Leung", "P Nash", "J Nunez-Melo", "F Pilon", "T Young"]
+    },
+    "AGRI":{"name":"Agriculture and Agri-food",
+        "membership":["M Tweed", "M Allen", "F Valeriote", "A Atamanenko", "RE Brosseau", "R Hoback", "P Lemieux", "L Payne", "F Raynault", "B Richards", "B Storseth", "B Zimmer"]
+    },
+    "JUST":{"name":"Justice and Human Rights",
+        "membership":["M Wallace", "F Boivin", "I Cotler", "D Albas", "S Armstrong", "B Calkins", "R Goguen", "P Jacob", "H Mai", "W Marston", "K Seeback", "D Wilks"]
+    }
+    
+}
+

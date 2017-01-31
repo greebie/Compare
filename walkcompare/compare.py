@@ -175,7 +175,6 @@ class compare:
         dd = self.unionize(collectionset)
         #populate table with matches for actors (weblists)
         df = self.create_matrix(dd, collectionset)
-
         if self.REMOVE_SINGLES:
             df = self.remove_singles(df)
         self.fill_vars(df)
@@ -257,7 +256,7 @@ class compare:
         return(set([x for x in l if l.count(x) > 1]) == set())
     
 
-    def  plot_ca (self):
+    def  plot_ca (self, asfile=""):
         texts = []
         ctexts = []
         plt.figure(figsize=(10,10))
@@ -268,14 +267,16 @@ class compare:
         plt.ylabel('Factor 2 (' + str(round(float(self.dimensions[1]), 3)*100) + '%)')
         plt.scatter(*self.result['columns'].T,  s=120, marker='o', c='r', alpha=.5, linewidths=0)
         plt.scatter(*self.result['rows'].T,  s=120, marker='s', c='blue', alpha=.5, linewidths=0)
-        for clabel, x, y in zip(self.clabels, *self.result['columns'].T):
+        for clabel, x, y in zip(self.rlabels, *self.result['columns'].T):
             ctexts.append(plt.text(x, y, clabel))
         if self.LABEL_BOTH_FACTORS:
-            for label, x, y in zip(self.rlabels, *self.result['rows'].T):
+            for label, x, y in zip(self.clabels, *self.result['rows'].T):
                 texts.append(plt.text(x, y, label))
             if self.adjust:
                     AT(texts,arrowprops=dict(arrowstyle="-", color='k', lw=0.5))
                     AT(ctexts, arrowprops=dict(arrowstyle="-", color='k', lw=0.5))
+        if asfile:
+            plt.savefig(asfile, bbox_inches='tight')
         plt.show()
 
     def plot_ca_3d(self):
