@@ -1,8 +1,0 @@
-setup.py
-compare/Compare.egg-info/PKG-INFO
-compare/Compare.egg-info/SOURCES.txt
-compare/Compare.egg-info/dependency_links.txt
-compare/Compare.egg-info/not-zip-safe
-compare/Compare.egg-info/requires.txt
-compare/Compare.egg-info/top_level.txt
-compare/compare.egg-info/SOURCES.txt

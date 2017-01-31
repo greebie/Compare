@@ -24,6 +24,7 @@ with open('walkcompare/data/parliamentary_committees.json') as f:
         "name": "Indigenous and Northern Affairs",
         "membership":["C Warkentin", "J Crowder", "C Bennett", "S Ambler", "D Bevington", "R Boughen", "R Clarke", "J Genest-Jourdain", "J Hillyer", "C Hughes", "G Rickford", "K Seeback"]
     },
+
     "HUMA":{
         "name":"Human Resources, Skills and Social Development and the Status of Persons with Disabilities",
         "membership": ["E Komarnicki", "C Charlton", "R Cuzner", "M Boutin-Sweet", "B Butt", "R Cleary", "J Daniel", "F Lapointe", "K Leitch", "C Mayes", "P McColeman", "D Shory"]

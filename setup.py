@@ -2,7 +2,7 @@ from setuptools import setup
 from setuptools import find_packages
 
 setup(name='walkcompare',
-      version='0.1.1',
+      version='0.1.2',
       description='A way of Comparing large collections in libraries.',
       url='https://github.com/greebie/Compare',
       author='Ryan Deschamps',

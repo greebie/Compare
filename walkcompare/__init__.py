@@ -1,1 +1,1 @@
-import compare
+import walkcompare

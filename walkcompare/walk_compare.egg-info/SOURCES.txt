@@ -1,7 +1,0 @@
-setup.py
-walk-compare/walk_compare.egg-info/PKG-INFO
-walk-compare/walk_compare.egg-info/SOURCES.txt
-walk-compare/walk_compare.egg-info/dependency_links.txt
-walk-compare/walk_compare.egg-info/not-zip-safe
-walk-compare/walk_compare.egg-info/requires.txt
-walk-compare/walk_compare.egg-info/top_level.txt

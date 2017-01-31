@@ -299,6 +299,7 @@ class compare:
 if __name__ == "__main__":
     with open('./data/parliamentary_committees.json') as f:
         data = json.load(f)
+    
     values = [y['membership'] for  y in data.values()]
     names = [q for q in data.keys()]
     print(names)
